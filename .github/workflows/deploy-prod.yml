@@ -1,4 +1,5 @@
 name: Deploy Prod
+# Cross-workflow deployment from the build artifact.
 
 on:
   workflow_run:
