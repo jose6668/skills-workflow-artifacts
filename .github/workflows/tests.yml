@@ -1,4 +1,5 @@
 name: Tests
+# Test and browser-report artifacts for the exercise.
 
 on:
   push:
